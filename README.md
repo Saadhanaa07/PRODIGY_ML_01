@@ -33,6 +33,5 @@ The dataset used is `train.csv` from the Kaggle competition. It contains detaile
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Saadhana07/House-Price-Prediction.git
-   cd House-Price-Prediction
+   https://github.com/Saadhanaa07/PRODIGY_ML_01
 
